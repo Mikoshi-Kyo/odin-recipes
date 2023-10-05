@@ -1,15 +1,19 @@
 *
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #F68E5F;
     
 }
 
+body{
+    background-color: #F68E5F;
+    
+}
 .odin
 {
 
-    color: #324376;
+    color: #5171A5;
     font-size: 36px;
+    text-align: center;
 }
 
 .recipe
@@ -20,13 +24,20 @@
     font-weight: bold;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
 .entree,
 .desc,
 .ing,
 .chicken,
 .tomato,
 .steps {
-    color: #324376;
+    color: #5171A5;
     
 }
 
@@ -54,3 +65,19 @@ p,
 .stepslist{
     color: #F5DD90;
 }
+
+.container{
+    text-align: center;
+    margin: 0;
+    position: relative;
+}
+
+button{
+    display: block;
+    color: #F5DD90;
+    background-color: #D4C1EC;
+    text-align: center;
+}
+
+
+  
