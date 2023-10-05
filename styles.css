@@ -1,0 +1,56 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F68E5F;
+    
+}
+
+.odin
+{
+
+    color: #324376;
+    font-size: 36px;
+}
+
+.recipe
+{
+    font-size: 24px;
+    text-align: center;
+    color: #F5DD90;
+    font-weight: bold;
+}
+
+.entree,
+.desc,
+.ing,
+.chicken,
+.tomato,
+.steps {
+    color: #324376;
+    
+}
+
+.entree{
+    font-size: 36px;
+}
+
+.ing,
+.desc{
+    font-size: 28px;
+}
+
+.chicken,
+.tomato
+{
+    font-size: 24px;
+}
+
+.steps{
+    font-size: 20px;
+}
+
+p,
+.ingrecipe,
+.stepslist{
+    color: #F5DD90;
+}
