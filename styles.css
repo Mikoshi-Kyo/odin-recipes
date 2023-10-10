@@ -8,6 +8,13 @@ body{
     background-color: #F68E5F;
     
 }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .odin
 {
 
@@ -24,12 +31,20 @@ body{
     font-weight: bold;
 }
 
-.center {
+img{
+    width: auto;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+button{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+    color: #F5DD90;
+    background-color: #D4C1EC;
+    text-align: center;
+    margin: auto;
+}
 
 .entree,
 .desc,
@@ -66,18 +81,7 @@ p,
     color: #F5DD90;
 }
 
-.container{
-    text-align: center;
-    margin: 0;
-    position: relative;
-}
 
-button{
-    display: block;
-    color: #F5DD90;
-    background-color: #D4C1EC;
-    text-align: center;
-}
 
 
   
